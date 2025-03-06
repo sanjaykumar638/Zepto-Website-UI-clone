@@ -29,34 +29,36 @@ This project is a Zepto Website UI Clone built using Next.js and Tailwind CSS. T
 # 1️⃣ Clone the Repository
 
 git clone https://github.com/sanjaykumar638/Zepto-Website-UI-clone
-cd zepto-ui-clone
+
+`cd zepto-ui-clone`
 
 # 2️⃣ Install Dependencies
 
-yarn install  # or npm install
+`yarn install`  # or `npm install`
 
 # 3️⃣ Run the Development Server
 
-yarn dev  # or npm run dev
+`yarn dev`  # or `npm run dev`
 
 Open http://localhost:3000 in your browser.
 
 # 4️⃣ Build for Production
 
 `yarn build  # or npm run build`
+
 `yarn start  # or npm run start`
 
 # 🚀 Deployment
 
 This project is deployed on Vercel. You can deploy your own version using:
 
-vercel
+`vercel`
 
 Alternatively, push to GitHub and connect with Vercel/Netlify for automatic deployments.
 
 # 📝 JSON Configuration Example
 
-`[
+# [
   {
     "type": "banner",
     "image": "/banner1.jpg",
@@ -72,11 +74,13 @@ Alternatively, push to GitHub and connect with Vercel/Netlify for automatic depl
       { "name": "Fruits", "image": "/fruits.jpg", "link": "/category/fruits" }
     ]
   }
-]`
+] ##
 
 
 # 📬 Contact
 
 For queries or suggestions, feel free to reach out via GitHub issues.
 
-🔗 Live Demo: [Deployed Link Here]🔗 GitHub Repository:https://github.com/sanjaykumar638/Zepto-Website-UI-clone
+🔗 Live Demo: [Deployed Link Here]
+
+🔗 GitHub Repository:https://github.com/sanjaykumar638/Zepto-Website-UI-clone
