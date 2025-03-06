@@ -54,33 +54,12 @@ This project is deployed on Vercel. You can deploy your own version using:
 
 `vercel`
 
-Alternatively, push to GitHub and connect with Vercel/Netlify for automatic deployments.
-
-# 📝 JSON Configuration Example
-
-# [
-  {
-    "type": "banner",
-    "image": "/banner1.jpg",
-    "title": "Super Fast Delivery",
-    "subtitle": "Get groceries in 10 minutes",
-    "cta_text": "Shop Now",
-    "cta_link": "/shop"
-  },
-  {
-    "type": "category",
-    "categories": [
-      { "name": "Vegetables", "image": "/veg.jpg", "link": "/category/vegetables" },
-      { "name": "Fruits", "image": "/fruits.jpg", "link": "/category/fruits" }
-    ]
-  }
-] ##
-
+Alternatively, push to GitHub and connect with `Vercel/Netlify` for automatic deployments.
 
 # 📬 Contact
 
 For queries or suggestions, feel free to reach out via GitHub issues.
 
-🔗 Live Demo: [Deployed Link Here]
+🔗 Live Demo:https://zepto-website-ui-clone.vercel.app/
 
 🔗 GitHub Repository:https://github.com/sanjaykumar638/Zepto-Website-UI-clone
